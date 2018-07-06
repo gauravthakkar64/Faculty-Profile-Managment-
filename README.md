@@ -12,29 +12,29 @@ DATABASE: MySQL Server 5.5<br>
 
 System Related Information:-
 
-1. User Management
-• User can do Registration.			
+1. User Management<br>
+• User can do Registration.			<br>
 • Admin and User can login in this module.
-2. Profile Management
+2. Profile Management<br>
 • User can manage their profile and make necessary changes to it.
 
-3. User Management
+3. User Management<br>
 • Admin can manage the User.
-4. Notification
+4. Notification<br>
 • User can generate the notifications and other user can view this notifications.
-5. Rating
-• User and visitor can make ratings for System.
+5. Rating<br>
+• User and visitor can make ratings for System.<br>
 • Admin can see the rating.
-6. Feedback
-• Customer can send the feedback.
-• Admin can see the feedback.
+6. Feedback<br>
+• Customer can send the feedback.<br>
+• Admin can see the feedback.<br>
 • Visitor can also send the feedback.
-7. Report
-• Admin can generate report.
+7. Report<br>
+• Admin can generate report.<br>
 • Visitor can show the user’s information.
 
- 8. Circular
-• Admin can generate Circular.
+ 8. Circular<br>
+• Admin can generate Circular.<br>
 • User can see that circular.
 
 
