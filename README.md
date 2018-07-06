@@ -4,10 +4,10 @@
 
 This system provide facilities to colleges/institutes to manage their Faculties. Faculty have their personal profile in this system. They can manage their profile time to time. College/Institute can post blogs/information on this system. Faculties can also post blogs related to some research or any related to information.
 
-##    Tools and Technologies:-<br>
-# Front-end: ASP.NET (.Net Framework/Visual Studio)<br>
-# Back-end: C#<br>
-# DATABASE: MySQL Server 5.5<br>
+####    Tools and Technologies:-<br>
+##### Front-end: ASP.NET (.Net Framework/Visual Studio)<br>
+##### Back-end: C#<br>
+##### DATABASE: MySQL Server 5.5<br>
 
 
 **System Related Information:-**
